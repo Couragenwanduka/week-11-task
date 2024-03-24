@@ -1,14 +1,12 @@
 
-#  Project Name
-
-## Description
-Briefly describe your project here. Explain its purpose and functionality.
+#  Project Name : Hotel Api
+  
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/Couragenwanduka/week-11-task.git>
     ```
 
 2. Install dependencies:
