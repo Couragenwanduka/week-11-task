@@ -1,6 +1,6 @@
 import {validateSignupInput }from '../utils/utils.js';
 import {validateLoginInput} from '../utils/utils.js';
-import  {saveUser,findUserByEmail } from '../service/user_reg.service.js';
+import  {saveUser,findUserByEmail, updatePassword,deleteUser} from '../service/user_reg.service.js';
 import {comparePassword} from '../config/bcrypt.js'
 import jwt from 'jsonwebtoken'
 
